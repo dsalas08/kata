@@ -1,2 +1,2 @@
 # kata
-Rock Paper Scissors 
+Rock Paper Scissors is the bomb
