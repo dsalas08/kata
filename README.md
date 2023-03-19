@@ -1,0 +1,2 @@
+# kata
+Rock Paper Scissors 
